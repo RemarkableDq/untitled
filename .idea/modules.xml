@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb/JavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk8-test/jdk8-test.iml" filepath="$PROJECT_DIR$/jdk8-test/jdk8-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk9-test/jdk9-test.iml" filepath="$PROJECT_DIR$/jdk9-test/jdk9-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticweb01/staticweb01.iml" filepath="$PROJECT_DIR$/staticweb01/staticweb01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/untitled1/untitled1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled2/untitled2.iml" filepath="$PROJECT_DIR$/untitled2/untitled2.iml" />
+    </modules>
+  </component>
+</project>
